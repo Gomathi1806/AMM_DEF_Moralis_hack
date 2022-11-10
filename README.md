@@ -6,11 +6,8 @@
 
 This boilerplate is built with [Moralis](https://moralis.io?utm_source=github&utm_medium=readme&utm_campaign=ethereum-boilerplate)
 
-You need active web3 provider/wallet only for authnetication. All pages in this boilerplate do not require an active web3 provider, they use Moralis Web3 API. Moralis supports the most popular blockchains and their test networks. You can find a list of all available networks in [Moralis Supported Chains](https://docs.moralis.io/reference/supported-chains-nft)
 
-Please check the [official documentation of Moralis](https://docs.moralis.io/) for all the functionalities of Moralis.
 
-![eth-boilerplate](https://user-images.githubusercontent.com/78314301/186810447-fa66cd80-5bbb-4e41-b29f-862c8cc67d43.gif)
 
 # ⭐️ `Star us`
 
