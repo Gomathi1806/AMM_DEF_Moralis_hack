@@ -1,0 +1,22 @@
+x + y = K. constant sum AMM
+
+First Created token for exchange
+created variable for  reserves
+created constructor to define the contract Addresss for the exchange currency pairs
+Write Functioons to make mint or burn
+
+For AMM to work
+we define our function
+Transfer the funds from the liquidity provider to AMMcontract
+
+keep track actual amount deposited by the liqudity provider
+AMM issue and allocate to liuidty provider to represent the participation of the liquidty pool
+mint and assign
+
+
+AMM provides liquidty to the exchange
+define our function 
+Validate the token swapped supported by AMM
+identify and keep track of the token
+Transfer the amount of the token
+
