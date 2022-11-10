@@ -34,7 +34,6 @@ yarn install
 
 ✏ Rename `.env.local.example` to `.env.local` and provide required data. Get your Web3 Api Key from the [Moralis dashboard](https://admin.moralis.io/):
 
-![image](https://user-images.githubusercontent.com/78314301/186810270-7c365d43-ebb8-4546-a383-32983fbacef9.png)
 
 🚴‍♂️ Run your App:
 
@@ -57,7 +56,6 @@ yarn start
 
 ### `<NFTBalances />`
 
-![image](https://user-images.githubusercontent.com/78314301/186813114-2b2265a5-5177-4ab8-9076-588107d450f1.png)
 
 location: `src/component/templates/balances/NFT/NFTBalances.tsx`
 
@@ -65,7 +63,6 @@ location: `src/component/templates/balances/NFT/NFTBalances.tsx`
 
 ### `<ERC20Balances />`
 
-![image](https://user-images.githubusercontent.com/78314301/186813448-a0b63106-bcba-46d2-be80-3a7d962e2302.png)
 
 location: `src/component/templates/balances/ERC20/ERC20Balances.tsx`
 
@@ -73,7 +70,6 @@ location: `src/component/templates/balances/ERC20/ERC20Balances.tsx`
 
 ### `<ERC20Transfers />`
 
-![image](https://user-images.githubusercontent.com/78314301/186813957-69badb89-bf93-44e6-90e7-c35801c24d9a.png)
 
 location: `src/component/templates/transfers/ERC20/ERC20Transfers.tsx`
 
@@ -81,7 +77,7 @@ location: `src/component/templates/transfers/ERC20/ERC20Transfers.tsx`
 
 ### `<NFTTransfers />`
 
-![image](https://user-images.githubusercontent.com/78314301/186814187-916851d7-703d-4e30-9b28-b66b0bea90b1.png)
+
 
 location: `src/component/templates/transfers/NFT/NFTTransfers.tsx`
 
@@ -89,7 +85,6 @@ location: `src/component/templates/transfers/NFT/NFTTransfers.tsx`
 
 ### `<Transactions />`
 
-![image](https://user-images.githubusercontent.com/78314301/186812987-74d8e534-5171-4a53-83f9-3b470bc97e63.png)
 
 location: `src/component/templates/transactions/Transactions.tsx`
 
